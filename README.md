@@ -76,8 +76,7 @@ Instead of exporting a new CSV, a **live connection** was maintained for dynamic
 ---
 
 ## 🚀 Next Steps  
-🔹 Fine-tune Tableau dashboard for **more interactivity**  
-🔹 Try a **predictive model (Machine Learning)** on this dataset  
+🔹 Fine-tune Tableau dashboard for **more interactivity**    
 🔹 Explore **other similar healthcare datasets**  
 
 ---
